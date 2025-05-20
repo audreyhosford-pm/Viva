@@ -127,6 +127,9 @@ Files attached to storyline posts are stored in a hidden library in the authorâ€
 
    `https://<tenantname>-my.sharepoint.com/personal/<useridentifier>/VivaEngage/Attachments/Storyline`
 
+> [!NOTE]
+> Storyline file attachments are not supported for users with information barriers policies applied to their OneDrive.
+
 To determine the precise URL for a user's storyline page, follow these steps:
 
 1. Open the user's OneDrive in a browser.
